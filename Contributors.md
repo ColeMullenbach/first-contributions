@@ -2491,5 +2491,6 @@
 - [Laura Simoni](https://github.com/lsimonidev)
 - [Ulysses Leal](https://github.com/ULYBR)
 - [Carlos Alcala](https://github.com/calcala12)
+- [Cole Mullenbach](https://github.com/ColeMullenbach)
 - 🇪🇨 Danilo 🇪🇨
 <!-- prettier-ignore-end -->
